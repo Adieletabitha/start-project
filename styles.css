@@ -1,0 +1,348 @@
+#navSection{
+	position: relative;
+	width: 100%;
+	height: 35px;
+	/*left: 70px;*/
+	/*top: 31px;*/amily: Open Sans, sans-serif;
+	font-size: 25px;
+	line-height: 34px;
+	text-transform: capitalize;
+
+	font-f
+
+	color: #FFC857;
+}
+
+.nav-link{
+	color: blue !important;	
+}
+#topSearch{
+	position: absolute;
+	left: 90%;
+	right: 1.73%;
+	top: 40%;
+	bottom: 0%;
+	color: lightgrey;
+}
+
+
+  
+#landingPage{
+	position: relative;
+	width: 100%;
+	height: 631px;
+	left: -1px;
+	top: 70px;
+	background-image: linear-gradient(180deg, rgba(255, 200, 87, 0.74) 10.62%, #1F3C88 100%), url("../../Images/Rectangle (1).png");
+}
+		
+/* #landingPage img{
+	opacity: 0.3;
+	font-family: Open Sans, sans-serif;
+}
+	
+/* 	
+	
+#landingPage h1{
+	position: absolute;
+	width: 381px;
+	height: 69px;
+	left: 529px;
+	top: 176px;
+	ont-family: Open Sans, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 68px;
+	letter-spacing: 0.05em;
+	text-transform: capitalize;
+	
+	color: #FFFFFF;
+  
+}
+	
+  
+  #landingPage p{
+	position: absolute;
+	width: 516px;
+	height: 41px;
+	left: 462px;
+	top: 247px;
+  
+	font-family: Open Sans, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 41px;
+	/* identical to box height */
+  
+	letter-spacing: 0.3em;
+	/*text-transform: uppercase;*/
+  
+	color: #FFFFFF;
+  }
+  
+  #landingPage button{
+	position: absolute;
+	width: 256px;
+	height: 55px;
+	left: 591px;
+	top: 321px;
+  
+	background-color: transparent;
+	border: 2px solid #FFFFFF;
+	box-sizing: border-box;
+	border-radius: 4px;
+	border: 2px solid #FFFFFF;
+  
+	color: #FFFFFF;
+  }
+  
+  #iconSection{
+	position: absolute;
+	width: 256px;
+	height: 55px;
+	/*left: 591px;*/
+	top: 421px;
+  }
+  
+  #landingPageForm{
+	position: absolute;
+	width: 1157px;
+	height: 157px;
+	left: 100px;
+	top: 617px;
+  
+	background: #FFFFFF;
+	box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.16);
+	border-radius: 2px;
+	z-index: 1;
+  }
+  
+  #searchInput{
+	position: absolute;
+	width: 414px;
+	height: 70px;
+	left: 20px;
+	top: 40px;
+  
+	border: 1px solid #C4C4C4;
+	box-sizing: border-box;
+	border-radius: 3px;
+  }
+  
+  #searchInputIcon{
+	position: absolute;
+	left: 3.5%;
+	/*right: 10%;*/
+	top: 41%;
+	bottom: 0%;
+	z-index: 1;
+	color: lightgrey;
+  
+	font-size: 1.3em;
+  }
+  
+  #locationInput{
+	position: absolute;
+	width: 215px;
+	height: 70px;
+	left: 454px;
+	top: 40px;
+  
+	border: 1px solid #C4C4C4;
+	box-sizing: border-box;
+	border-radius: 3px;
+  }
+  
+  #locationInputIcon{
+	position: absolute;
+	left: 41%;
+	/*right: 10%;*/
+	top: 41%;
+	bottom: 0%;
+	z-index: 1;
+	color: lightgrey;
+  
+	font-size: 1.3em;
+  }
+  
+  #sectorInput{
+	position: absolute;
+	width: 215px;
+	height: 70px;
+	left: 692px;
+	top: 40px;
+  
+	border: 1px solid #C4C4C4;
+	box-sizing: border-box;
+	border-radius: 3px;
+  }
+  
+  #searchBtn{
+	position: absolute;
+	width: 209px;
+	height: 70px;
+	right: 20px;
+	/*left: 884px;*/
+	top: 40px;
+  
+	background: #FFC857;
+	border-radius: 4px;
+	border-width: 0px;
+  }
+  
+  #aboutUsSection{
+	position: absolute;
+	width: 100%;
+	/*height: 1512px;*/
+	left: 0px;
+	/*top: 727px;*/
+  
+	background: #FEFEFF;
+  }
+  
+  #aboutUsSection hr {
+	position: absolute;
+	width: 50px;
+	height: 3px;
+	left: 692px;
+	top: 850px;
+  
+	background: #FFC857;
+	border-radius: 2px;
+  }
+  
+  #aboutUsSection h5{
+	position: absolute;
+	width: 118px;
+	height: 30px;
+	left: 692px;
+	top: 874px;
+  
+	font-family: Open Sans, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 30px;
+	/* identical to box height */
+  
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+  
+	color: #1D2029;
+  }
+  
+  #aboutUsSection img{
+	position: absolute;
+	width: 456px;
+	height: 492px;
+	left: 210px;
+	top: 866px;
+  
+	background: #1F3C88;
+	border-radius: 2px;
+  }
+  
+  #aboutUsSectionLayer{
+	position: absolute;
+	width: 456px;
+	height: 492px;
+	left: 210px;
+	top: 866px;
+  
+	background: #1F3C88;
+	border-radius: 2px;
+  
+	opacity: 0.35;
+  }
+  
+  #aboutUsBlue{
+	position: absolute;
+	width: 960px;
+	height: 492px;
+	left: 270px;
+	top: 926px;
+	padding: 50px;
+  
+	font-family: monospace;
+	background: #7692FF;
+	border-radius: 5px;
+	box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.05);
+  }
+  
+  #aboutUsBlue p{
+  
+	font-family: Open Sans, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0.05em;
+	text-transform: capitalize;
+	margin-left: 360px;
+  
+	text-align: justify;
+  
+	color: #FFFFFF;
+  }
+  
+  #readMore{
+	position: absolute;
+	width: 101px;
+	height: 22px;
+	left: 400px;
+	top: 440px;
+  
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	/* identical to box height */
+  
+	letter-spacing: 0.1em;
+	text-transform: capitalize;
+  
+	color: #000000;
+  }
+  
+  #readMore span{
+	
+  }
+  
+  #carouselExampleControls{
+	position: absolute;
+	width: 744px;
+	height: 452px;
+	left: 310px;
+	top: 50px;
+  
+	background: rgba(31, 60, 136, 0.69);
+	opacity: 0.9;
+	border-radius: 2px;
+  }
+  
+  #carouselSectionCenter{
+	position: absolute;
+	width: 744px;
+	height: 452px;
+	left: 310px;
+	top: 50px;
+  
+	background: rgba(31, 60, 136, 0.69);
+	opacity: 0.9;
+	border-radius: 2px;
+  }
+  
+  #carouselSectionCenter p{
+	position: relative;
+	text-align: center;
+	top: 40%;
+  
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 40px;
+	color: #FFFFFF;
+  }
+    */
